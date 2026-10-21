@@ -5,7 +5,7 @@ Mike One · Independent researcher, Italy
 
 - `A_scale_dependent_vacuum_Mike_One.pdf`: the paper (11 pages)
 - `A_scale_dependent_vacuum_source.zip`: LaTeX source and figures
-- `GM_physical_plane_paper.zip`: the full test suite behind every number in the paper
+- `A_scale_dependent_vacuum_paper.zip`: the full test suite behind every number in the paper
 
 The test suite produces 73 labelled results on public data: derivations, tests with pass/fail rules fixed before running, measurements, constraints and diagnostics. The data are SPARC galaxies, Pantheon+ supernovae, DESI DR2, BOSS, X-COP and kinematic clusters, and four high-redshift galaxy samples.
 
