@@ -3,7 +3,7 @@
 **Vacuum energy along the renormalisation scale, one acceleration scale from galaxies to clusters, and a fading dark energy**
 Mike One · Independent researcher, Italy
 
-- `A_scale_dependent_vacuum_Mike_One.pdf`: the paper (11 pages)
+- `A_scale_dependent_vacuum_Mike_One.pdf`: the paper (12 pages)
 - `A_scale_dependent_vacuum_source.zip`: LaTeX source and figures
 - `A_scale_dependent_vacuum_paper.zip`: the full test suite behind every number in the paper
 
