@@ -11,7 +11,7 @@ The test suite produces 73 labelled results on public data: derivations, tests w
 
 ## Rerunning everything
 
-    unzip GM_physical_plane_paper.zip
+    unzip A_scale_dependent_vacuum_paper.zip
     cd GM_physical_plane_paper
     pip install -r requirements.txt
     python run_all.py
